@@ -3,4 +3,7 @@ echo "test";
 printf "123";
 ;
 ;
-.,m;
+.,m
+new lesson;
+;
+bla bla bla 2;
