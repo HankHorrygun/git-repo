@@ -1,6 +1,6 @@
-print "Hello world"
-echo "test"
-printf "123"
-
-
-.,m
+print "Hello world";
+echo "test";
+printf "123";
+;
+;
+.,m;
