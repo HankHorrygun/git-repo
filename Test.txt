@@ -1,9 +1,9 @@
-print "Hello world"
-echo "test"
-printf "123"
-
-
+print "Hello world";
+echo "test";
+printf "123";
+;
+;
 .,m
-new lesson
-
-bla bla bla 2
+new lesson;
+;
+bla bla bla 2;
